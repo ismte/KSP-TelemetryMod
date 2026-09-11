@@ -16,4 +16,5 @@ Kerbal Space Program (KSP) için geliştirilmiş hafif ve canlı veri takibi sa�
 ## Geliştirme (Build)
 Projeyi yerel ortamınızda derlemek için:
 ```bash
-dotnet build```
+dotnet build
+```
